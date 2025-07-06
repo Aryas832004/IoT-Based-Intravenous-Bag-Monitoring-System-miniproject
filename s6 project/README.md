@@ -4,13 +4,13 @@
 > A smart healthcare project that automates IV fluid level tracking using IoT and sensors — reducing human error and enabling real-time alerts for medical staff.
 
 🎤 **Presented at International Conference on Advancement in Science, Engineering & Technology – 2025**  
-📚 **Soon to be Published in International Conference Proceedings**
+**Soon to be Published in International Conference Proceedings**
 
 ---
 
 ## 🧾 Abstract
 
-Intravenous therapy is widely used in medical care but still lacks real-time monitoring. This project leverages **ESP8266**, **Load Cell**, and **Blynk App** to automate IV fluid level detection, notify staff wirelessly, and display status locally — ensuring **patient safety and efficient care**.
+Intravenous therapy is widely used in medical care but still lacks real-time monitoring. This project leverages **ESP8266**, **Load Cell**, and **Blynk App** to automate IV fluid level detection, notify staff wirelessly, and display status locally ensuring **patient safety and efficient care**.
 
 ---
 
