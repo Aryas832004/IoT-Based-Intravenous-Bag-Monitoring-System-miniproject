@@ -68,10 +68,7 @@ Mobile Notification
 
 ## 👨‍💻 Team Members
 
-Arya Sasikumar          
-Gowthami S   
-Ajmal T A
-Mahitha M
+Arya Sasikumar , Gowthami S , Mahitha M , Ajmal T A         
 
 ### 👩‍🏫 Guide
 - **Ms. Swetha C**
