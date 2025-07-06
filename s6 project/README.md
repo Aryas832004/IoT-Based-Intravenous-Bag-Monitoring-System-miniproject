@@ -25,25 +25,25 @@ Intravenous therapy is widely used in medical care but still lacks real-time mon
 
 ---
 
-## 📈 Block Diagram
+## Block Diagram
 
 ![Block Diagram](Images/block_diagram.png)
 
 ---
 
-## 🔄 Flowchart
+## Flowchart
 
 ![Flowchart](Images/flowchart.png)
 
 ---
 
-## 🧪 Circuit Diagram
+##  Circuit Diagram
 
 ![Circuit Diagram](Images/circuit_diagram.jpg)
 
 ---
 
-## 📲 Output Screens & Setup
+## Output Screens & Setup
 
 | Setup Top View | Setup Side View | 
 |----------------|------------------|
@@ -70,9 +70,8 @@ Mobile Notification
 
 Arya Sasikumar          
 Gowthami S   
-Mahitha M
-
 Ajmal T A
+Mahitha M
 
 ### 👩‍🏫 Guide
 - **Ms. Swetha C**
