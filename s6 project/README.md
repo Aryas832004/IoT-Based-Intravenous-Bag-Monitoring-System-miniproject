@@ -65,27 +65,6 @@ Mobile Notification
 
 ---
 
-## 📂 File Structure
-
-```
-IOT_IV_Bag_Monitoring_System_Project/
-├── Code/
-│   └── main.ino
-├── Images/
-│   ├── block_diagram.png
-│   ├── circuit_diagram.jpg
-│   ├── flowchart.png
-│   ├── setup_photo_1.jpg
-│   ├── setup_photo_2.jpg
-│   └── mobile_notification.jpg
-├── Report/
-│   └── ARYAreport.pdf
-├── ConferencePaper/
-│   └── conference_paper.doc
-└── README.md
-```
-
----
 
 ## 👨‍💻 Team Members
 
