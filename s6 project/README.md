@@ -45,10 +45,11 @@ Intravenous therapy is widely used in medical care but still lacks real-time mon
 
 ## 📲 Output Screens & Setup
 
-| Setup Top View | Setup Side View | Mobile Notification |
-|----------------|------------------|----------------------|
-| ![](Images/setup_photo_1.jpg) | ![](Images/setup_photo_2.jpg) | ![](Images/mobile_notification.jpg) |
-
+| Setup Top View | Setup Side View | 
+|----------------|------------------|
+ | ![](Images/setup_photo_2.jpg) | ![](Images/mobile_notification.jpg) |
+Mobile Notification
+ ![](Images/setup_photo_1.jpg)
 ---
 
 ## 💻 How It Works
@@ -88,15 +89,15 @@ IOT_IV_Bag_Monitoring_System_Project/
 
 ## 👨‍💻 Team Members
 
-| Name         | Role           | Email |
-|--------------|----------------|-------------------------------|
-| Arya Sasikumar | Project Lead    | aryasasikumar2004@gmail.com  |
-| Ajmal T A      | Developer       | ajmalzayan18@gmail.com        |
-| Mahitha M      | Developer       | mahithamurali431@gmail.com    |
-| Gowthami S     | Testing & Docs  | gowthami.s@ahalia.ac.in       |
+Arya Sasikumar          
+Gowthami S   
+Mahitha M
+Ajmal T A
 
 ### 👩‍🏫 Guide
-- **Ms. Swetha C**, Dept. of ECE – swetha@ahalia.ac.in
+- **Ms. Swetha C**
+- Assistant professor,Electronics & Communication Department
+- Ahalia School of Engineering and Technology
 
 ---
 
@@ -124,14 +125,7 @@ IOT_IV_Bag_Monitoring_System_Project/
 
 ## 📄 License
 
-🔒 This project is for academic demonstration only. Contact the authors for reuse or research collaboration.
+🔒 This project is for academic demonstration only.
 
 ---
 
-## 🏁 Acknowledgments
-
-- Ahalia School of Engineering & Technology  
-- APJ Abdul Kalam Technological University  
-- ICASET 2025 Organizing Committee
-
-> "Healthcare meets technology — one drip at a time." 💉🌐
